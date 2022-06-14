@@ -12,8 +12,9 @@
 ---
 + ZIP파일과 DDL파일을 다운로드후, ECLIPSE를 통해서 ZIP파일을 임포트
 + CMD창에서 FS 계정을 생성하고 DBA에 권한을 준 다음, DDL파일을 임포트
-+ Spring에서 server.xml 작성
 + upload.zip 파일을 C드라이브에서 압축해제
++ Spring에서 server.xml 데이터소스 작성
++ kakao api appkey 수정 (상세 ppt 참조)
 
 ### 개발기간
 ---
